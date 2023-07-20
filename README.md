@@ -1,5 +1,5 @@
 
-- 🌱 learning Web Development (HTML, CSS, JavaScript, PHP)
+- 🌱 learning Web Development!
 
 <!---
 taiba-0/taiba-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
